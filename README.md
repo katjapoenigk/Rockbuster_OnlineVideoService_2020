@@ -39,7 +39,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ## Project Deliverables
 - [Final Presentation]()
-- [A data dictionary]()
+- [A data dictionary](https://github.com/katjapoenigk/Rockbuster_OnlineVideoService_2020/blob/17b1d44552a2390e37bb679b7224bb9735f02c74/05%20Sent%20to%20client/Data%20Dictionary_Rockbuster_Katja%20Po%CC%88nigk%20copy.pdf)
   
 ## Notes
 - This project is part of my studies fo the Data Analytics Program at CareerFoundry in 2023.
